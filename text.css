@@ -1,0 +1,49 @@
+.table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 75%;
+}
+td, th {
+  border: 5px solid black;
+  text-align: left;
+  padding: 20px;
+  border-collapse:collapse;
+}
+tr:nth-child(odd) {
+  background-color: lightgrey;
+}
+tr:nth-child(1) {
+  background-color:darkgrey;
+}
+tr:nth-child(even) {
+  background-color: lightslategrey;
+}
+.tet {
+  font-size:175%;
+  text-align:center;
+}
+.text {
+  font-size: 110%;
+  color: black;
+  text-align:center;
+}
+.test {
+  font-size: 130%;
+  color: black;
+  text-align:center;
+}
+.para {
+  font-size:100%;
+  color: darkslategrey;
+}
+.image {
+  text-align:center;
+}
+.big {
+  font-size:150%;
+  text-align:center;
+}
+.txt {
+  font-size:325%;
+  text-align:center;
+}
