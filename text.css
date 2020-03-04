@@ -1,4 +1,4 @@
-.table {
+table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 75%;
@@ -17,6 +17,9 @@ tr:nth-child(1) {
 }
 tr:nth-child(even) {
   background-color: lightslategrey;
+}
+.table {
+  width:75%;
 }
 .tet {
   font-size:175%;
