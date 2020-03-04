@@ -30,7 +30,7 @@ tr:nth-child(even) {
   color: black;
   text-align: center;
 }
-test {
+.test {
   font-size: 175%;
   color: black;
   text-align: center;
